@@ -1,0 +1,7 @@
+Link to Github
+-----------------
+https://github.com/awb0047/COMP-5970-Assignment-2
+
+Link to Website
+-----------------
+https://awb0047.github.io/COMP-5970-Assignment-2/MyWebsite/index.html
